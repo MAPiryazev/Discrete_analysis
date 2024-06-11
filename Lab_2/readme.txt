@@ -1,0 +1,1 @@
+This code is a realization of Decart_tree datastructure. Each node contains key (std::string) and value (unsigned long long).
